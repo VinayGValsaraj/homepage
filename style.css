@@ -1,0 +1,9 @@
+#tonight {
+    width: 644px;
+    margin: 0 auto;
+}
+
+body {
+    background: url('sides.png') repeat-x;
+    margin: 0;
+}
