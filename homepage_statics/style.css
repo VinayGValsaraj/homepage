@@ -1,50 +1,46 @@
-/* latin */
 @font-face {
-    font-family: 'Press Start 2P';
-    font-style: normal;
-    font-weight: 400;
-    src: local('Press Start 2P'), local('PressStart2P-Regular'), url(/homepage_statics/fonts/8Lg6LX8-ntOHUQnvQ0E7o69WAFmVxfVhVkWhl-QDeAk.woff2) format('woff2'), url(/homepage_statics/fonts/8Lg6LX8-ntOHUQnvQ0E7o2jf3WypfQQP02nP_ZmoBRo.woff) format('woff');
-    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
-}
+        font-family: 'Michroma';
+        font-style: normal;
+        font-weight: 400;
+        src: local('Press Start 2P'), url(/homepage_statics/Michroma.ttf);
+    }
 
-#tonight {
-    width: 644px;
-    height: 796px;
+
+#body-container {
     margin: 0 auto;
-    background: url('tonight.png');
+    background: #000;
     padding-top: 0px;
+    width: 100%;
 }
 
 body {
-    background: url('sides.png') repeat-x;
-    background-color: #26afa8;
+    background: #000;
     margin: 0;
-    font-family: 'Press Start 2P', "Arial";
-    color: #93df23;
-    text-shadow: 2px 2px 0px #E980D8;
+    font-family: 'Michroma', sans-serif;
+    color: #fff;
     text-transform: uppercase;
     padding-bottom: 0;
     letter-spacing: 4px;
 }
 
 a {
-    color: #93df23;
-    text-shadow: 2px 2px 0px #E980D8;
-    text-transform: uppercase;
+    color: #fff;
     text-decoration: none;
+    font-weight: 800;
 }
 
 
 ul {
     list-style: none;
     margin: 0;
-    padding: 0;
+    padding-left: 10px;
 }
 
 li {
     margin-left: 0px;
-    margin-bottom: 14px;
     font-size: 26px;
+    padding: 5px 0 5px 10px;
+
 }
 
 .paragraph {
@@ -52,9 +48,41 @@ li {
 }
 
 .text-container {
-    padding: 26px;
+    padding: 0px;
 }
 
-#section-end {
-    margin-bottom: 36px;
+#name {
+    color: #feee88;
+}
+
+.selected > a {
+    background: #fff;
+    color: #000;
+}
+
+.selected {
+    background: #fff;
+    color: #000;
+}
+
+li > a:focus {
+    outline:0;
+}
+
+li > a {
+    display: inline-block;
+    width: 100%;
+}
+
+h1 {
+    padding: 10px;
+}
+
+@media (min-width:1281px) {
+    #body-container {
+        width: 644px;
+        margin: 0 auto;
+        background: #000;
+        padding-top: 0px;
+    }
 }
