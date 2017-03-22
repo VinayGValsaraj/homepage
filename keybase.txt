@@ -1,0 +1,80 @@
+==================================================================
+https://keybase.io/nickcarneiro
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://trillworks.com
+  * I am nickcarneiro (https://keybase.io/nickcarneiro) on keybase.
+  * I have a public key with fingerprint 7CA2 F1AE 21A6 7957 A63A  35E9 3192 F2DE 2F55 8B19
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101be205e64692c2dc9313cef83de59e4f9aa61ba5ca5f4173f152d80cb22d910be0a",
+            "fingerprint": "7ca2f1ae21a67957a63a35e93192f2de2f558b19",
+            "host": "keybase.io",
+            "key_id": "3192f2de2f558b19",
+            "kid": "0101be205e64692c2dc9313cef83de59e4f9aa61ba5ca5f4173f152d80cb22d910be0a",
+            "uid": "34015e08b49ef5538710326131779419",
+            "username": "nickcarneiro"
+        },
+        "revoke": {
+            "sig_ids": [
+                "fa19d60eaada17c37fa07be5c9dddad4cc03ed04a51802bdf09d231626c1d5d60f"
+            ]
+        },
+        "service": {
+            "hostname": "trillworks.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1490145747,
+    "expire_in": 157680000,
+    "prev": "f93ec913e486e232b23c0ce91c436ab9a9ccc1b62544f33a488d82b17d14b466",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.66
+Comment: https://keybase.io/crypto
+
+yMOJAnicrZJtUFRVHMYXeWkkDRQcYSCcrkKCgPfc97s6mqnUGAVTbaK8LOeeey5c
+Fnbp7rKABh/UGJJQxKaCIiE/UBozpIGWDBMvM0JgwMA6hOlMvIgkLJMajQgz3SX7
+1sfOlzPnnOf/e57zP6d7rbfB3wtUP7iz3VQR6tXXsVhgSBkaGj5KSDa5mDAeJSx4
+ZcK5MrY7zBZVJowECUggYYpkMcdwIoUoGYk0oBFWBFrGrIgZRYSQAxJkEWQVBvC0
+AlhKFkgkUZQsAlLCJCRiCUW1ZmEtX1OtDh3LI0gpAGIKQI4XWR5yNKRZrKNFSqFk
+TCksK0hA1AuzbXZPhR5OgnYcr9r0PX1hXon3H/r/OXfBPz4MCVhMChIjYt2KFnhA
+0hQHaMDzIrPiW2DHmhXmYV1tVZEFQc2KVc1GlMQSGnbaLNjTW7uapQe3E8ZUQoFA
+lDkSQyhDwCOaVyDJS5hFoizLUGYQImkskwxkgUBSkqyQokzRgKM4BGRWr1SIdJ2t
+uzpVtAL3dOppAoem5uYW2jSLPR7Z8vR0+ZrNYUO2XP0s2+HItxs9uRzF+R5xIZbM
+TzFmSbXK+kvpFU6s2VWblTACXYkcqocLGJEEDMszfCyBi/JVDZtVj4LlOYHUh8cH
+O3WkItIYiYDGjMBhiqYkikYkwiJADM1BSYQiQghIHMUyjELTkBEEWaAkwMuAkRiO
+IzwXe9dq09mUnhNm6Uy9d1boKNAwUdLZkeZj8PI3+Pmu8nxhg//qwH8/dn9boOHC
+Xy1Twonx0O71Nd8kRQ8MRXfsOvJbe9OG0uC21KLMoifNo4cjpaLyyXOpY5GoLeDl
+sSudRM/zDyeKg7mvxn8Ny/tWKNOmLm0ezoPzfosjBTF1bbllW7YSX7S/33884Kea
+tICsRZ+gap/FBd/mdb3X21w9b/W82NcaYtyeUtxbleHT4P3C0uTSMuh/6MsxmSgr
+O85PI02Xa70nrrX30bd61dfi9pVOV0W7NnwWR5emxEyn8xXgnmkw6ZVV7sBaVG6Z
+3ZrzJHF1lPOgvST90Utx2zIfrakfSfYWe0frT92orPzwzMjcmia3Cx7AwVFX/zj0
+w3Rnjs/lg5ZDX67f3Xqh4brvZGvOxbO5bMTCrcV0/86d59zeayvPRLhm6rdcpK4c
+zrnfFsq+urwzoy6/FplG9s9G7zhw7JT5zfneKvaBvTzomeT788rewZbCe653Ns6Z
+cpKor8NvOmdFY2JLfP3+KPdZISjKVBF5sul8ZYZ6l4tpWhpvfntPTfBzH4eYZmYH
+ju8lN5+4MxEXnjA6STQ8/nTHjQbmve8r7y4PDn8X5362awD8cul1ir39++3Y6rQ8
+7gPt530h6lhiuLj7z3XLc28EneaPJHR91B2zqX1bWKRh19LjT8KSE8aXTkZU/bix
+rGYqIvzqzKbzAx1JjXSAZU8jcfPz5GNa36y70XW6rqJ/oavzWmr239Jd4Y0=
+=aQJK
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nickcarneiro
+
+==================================================================
