@@ -85,12 +85,4 @@ h1 {
         background: #000;
         padding-top: 0px;
     }
-    #crypto-info > li {
-        overflow-x: visible;
-        white-space: nowrap;
-    }
-}
-
-#crypto-info > li {
-    overflow-wrap: break-word;
 }
